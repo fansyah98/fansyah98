@@ -4,10 +4,7 @@ dimana hobi saya adalah menulis sebuah artikel atau berbagi informasi
 
 [![Fansyah98's github stats](https://github-readme-stats.vercel.app/api?username=fansyah98&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/fansayh98/github-readme-stats)
 
-### Kemampuan
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react
 
 ### Contact
 
-e
 
