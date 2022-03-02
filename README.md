@@ -7,11 +7,19 @@ dimana hobi saya adalah menulis sebuah artikel atau berbagi informasi
     <tr>
       <thead>
         <th>no</th>
-         <th>no</th>
-         <th>no</th>
-         <th>no</th>
-         <th>no</th>
+         <th>Javascript</th>
+         <th>HTML</th>
+         <th>CSS</th>
+         <th>MsyQL</th>
+         <th>React</th>
       </thead>
+      <tbody>
+        <tr>
+          <td>
+            <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+          </td>
+        </tr>
+      </tbody>
     </tr>
 
   </table>
