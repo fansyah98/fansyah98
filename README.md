@@ -1,6 +1,5 @@
 ### Hallo Salam Kenal 👋
-Hai nama saya fansyah dwi krisnady saya adalah seorang mahasiswa kampus swasta yang ada di cirebon dengan akreditasi b 
-dimana hobi saya adalah menulis sebuah artikel atau berbagi informasi
+Coding Enthusias 
 
 <a target="_blank" href="">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
