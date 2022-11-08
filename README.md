@@ -19,7 +19,7 @@ Coding Enthusias
 
 
 <br>
-<h2> Languages and Tools: </h2>
+<h2> Bahasa Pemrogramman : </h2>
   <table border="2">
     <tr>
       <thead>
