@@ -1,4 +1,7 @@
 ### Hallo Salam Kenal 👋
+<br>Nama : Fansyah Dwi Krisnady
+<br>Hobi : Travel Dan Coding
+<br>S1 - Teknik Informatika 
 Coding Enthusias 
 
 <a target="_blank" href="">
