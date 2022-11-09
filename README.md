@@ -4,6 +4,8 @@
 <br>S1 - Teknik Informatika 
 Coding Enthusias 
 
+<br>
+<h2> Kontak : </h2>
 <a target="_blank" href="">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -22,7 +24,7 @@ Coding Enthusias
 
 
 <br>
-<h2> Bahasa Pemrogramman : </h2>
+<h2> Skill : </h2>
   <table border="2">
     <tr>
       <thead>
@@ -53,7 +55,9 @@ Coding Enthusias
     </tr>
 
   </table>
-
+ <br>
+ <h3> Github Stats </h3>
+ 
 [![Fansyah98's github stats](https://github-readme-stats.vercel.app/api?username=fansyah98&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/fansayh98/github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
 
 
