@@ -58,6 +58,10 @@ Coding Enthusias
  <br>
  <h3> Github Stats </h3>
  
-[![Fansyah98's github stats](https://github-readme-stats.vercel.app/api?username=fansyah98&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/fansayh98/github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![fansyah98 stats](https://github-readme-stats.vercel.app/api?username=fansyah98&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fansyah98&layout=compact)](https://github.com/fansyah98/github-readme-stats)
+
+
 
 
