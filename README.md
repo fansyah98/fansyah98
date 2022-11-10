@@ -60,7 +60,7 @@ Coding Enthusias
  
 ![fansyah98 stats](https://github-readme-stats.vercel.app/api?username=fansyah98&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fansyah98&layout=compact)](https://github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fansyah98&layout=compact)](https://github.com/fansyah98)
 
 
 
