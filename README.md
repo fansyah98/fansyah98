@@ -1,6 +1,6 @@
 ## Hello!
 
-My Name is Fansyah Dwi Krisnady, you can call me Fansyah, I'm 23 y.o **`Freelancer Programmer`** also an **`IT Maintance & Development Program`** from Cirebon, Jawa Barat, Indonesia. <br> 
+My Name is Fansyah Dwi Krisnady, you can call me Fansyah, I'm 23 y.o **`Freelancer Programmer`** also an **`IT Maintance Junior`** from Cirebon, Jawa Barat, Indonesia. <br> 
 
 ## Github Stats :
 
