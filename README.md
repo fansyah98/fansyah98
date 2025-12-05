@@ -3,9 +3,10 @@
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/didol09/)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/fansyah-dwi-krisnady/) 
 
-Welcome to my GitHub profile! I’m a developer passionate about building impactful solutions, especially in backend development. Recently, I’ve been expanding my skills into full-stack development with modern web technologies. I'm also starting to explore AI, learning about machine learning, deep learning, and LLMs to understand how to build AI-powered applications.
+Welcome to my Github Profile:
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! Nice to meet you guys, let's learn or build something useful together. 🤗
+Let me introduce myself, I'm Fansyah Dwi Krisnady. I have a strong interest in software engineering, where I want to learn AI or Web3-based programming. 
+If you want to collaborate, please contact me.
 
 ### 📋 Current Activity
 - 🎓 I'm Final year of Informatics Engineering Student.
