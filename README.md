@@ -1,8 +1,7 @@
 ## Hi there, I'm Hafiz Caniago 👋
-![Profile Views](https://komarev.com/ghpvc/?username=hafizcode02)
-[![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/hafizcaniago/)
-[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/hafizcode02/) 
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hafiz-caniago/) 
+![Profile Views](https://komarev.com/ghpvc/?username=fansyah98)
+[![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/didol09/)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/fansyah-dwi-krisnady/) 
 
 Welcome to my GitHub profile! I’m a developer passionate about building impactful solutions, especially in backend development. Recently, I’ve been expanding my skills into full-stack development with modern web technologies. I'm also starting to explore AI, learning about machine learning, deep learning, and LLMs to understand how to build AI-powered applications.
 
