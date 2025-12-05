@@ -1,18 +1,50 @@
-## Hello!
+## Hi there, I'm Hafiz Caniago 👋
+![Profile Views](https://komarev.com/ghpvc/?username=hafizcode02)
+[![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/hafizcaniago/)
+[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/hafizcode02/) 
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hafiz-caniago/) 
 
-My Name is Fansyah Dwi Krisnady, you can call me Fansyah, I'm 23 y.o **`Freelancer Programmer`** also an **`IT Maintance Junior`** from Cirebon, Jawa Barat, Indonesia. <br> 
+Welcome to my GitHub profile! I’m a developer passionate about building impactful solutions, especially in backend development. Recently, I’ve been expanding my skills into full-stack development with modern web technologies. I'm also starting to explore AI, learning about machine learning, deep learning, and LLMs to understand how to build AI-powered applications.
 
-## Github Stats :
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! Nice to meet you guys, let's learn or build something useful together. 🤗
 
-| Github Performance | Most Used Language |
-| --- | --- |
-| ![github stats](https://github-readme-stats.vercel.app/api?username=fansyah98&show_icons=true&theme=tokyonight) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fansyah98&layout=compact&theme=tokyonight"> |
+### 📋 Current Activity
+- 🎓 I'm Final year of Informatics Engineering Student.
+- 🏗️ Expanding my skills into full-stack development with modern web technologies.
+- 🤖 Just starting to explore AI, learning about machine learning, deep learning, and LLMs.
+- 📑 Open to opportunities and collaborations—feel free to reach out! Always happy to help and learn new things.
 
-## Contact :
-If you want to know more about me or collaborate, feel free to contact me at :
+### 🔧 Tech & Tools
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,python,cpp,cs,laravel,nodejs,express,typescript,flask,tensorflow" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,sequelize,bootstrap,mysql,gcp,docker,vscode,visualstudio" />
+  </a>
+</p>
+<br>
+<hr>
 
+### 📊 Github Stats
+<div align="center">
+  <a href="https://github.com/hafizcode02">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hafizcode02&theme=tokyonight-duo&hide_border=true" />
+  </a>
+</div>
 
-[![LinkedinBadge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fansyahdwi/)
-[![GmailBadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fansyahdwi204@gmail.com)
+<br>
 
-
+<div align="center">
+ <a href="https://github.com/hafizcode02">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafizcode02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ </a>
+ &nbsp;
+ <a href="https://github.com/hafizcode02">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafizcode02&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=laravel-lte-boilerplate"/>
+ </a>
+</div>
+</div>
