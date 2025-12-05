@@ -31,20 +31,20 @@ If you want to collaborate, please contact me.
 
 ### 📊 Github Stats
 <div align="center">
-  <a href="https://github.com/hafizcode02">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=hafizcode02&theme=tokyonight-duo&hide_border=true" />
+  <a href="https://github.com/fansyah98">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=fansyah98&theme=tokyonight-duo&hide_border=true" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
- <a href="https://github.com/hafizcode02">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafizcode02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <a href="https://github.com/fansyah98">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fansyah98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  </a>
  &nbsp;
- <a href="https://github.com/hafizcode02">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafizcode02&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=laravel-lte-boilerplate"/>
+ <a href="https://github.com/fansyah98">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fansyah98&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=laravel-lte-boilerplate"/>
  </a>
 </div>
 </div>
